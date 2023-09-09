@@ -1,6 +1,0 @@
-use_frameworks!
-target 'FlexLayoutLibrary_Tests' do
-  pod 'FlexLayoutLibrary', :path => '../'
-  
-  
-end
