@@ -1,7 +1,7 @@
 framework module FlexLayout {
   umbrella header "FlexLayout.h"
-
   export *
+
   module * { export * }
 }
 
