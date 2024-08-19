@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/FlexLayout-Swift.h</key>
 		<data>
-		/PADo1lFeKK4VJhz3u1rNsd1CDo=
+		Yn2EfyNVl4189kxcuo4smP8UoDM=
 		</data>
 		<key>Headers/FlexLayout.h</key>
 		<data>
@@ -38,15 +38,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2Esw0ZoDuBkAqRoa3JRTb+29ic8=
+		EvxgwCNmtTd40KKYkdUiyZKYmBE=
 		</data>
 		<key>Modules/FlexLayout.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		YyCdJISap48U8AOEOK5bmgaCIe0=
+		+vLyKI0c315G26m840HJuZ85L8o=
 		</data>
 		<key>Modules/FlexLayout.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		CeDlMpaKqy0qiqd6J9lDFS6sqDs=
+		D4UBDxS55Sui/L6JtnI/OpCREeI=
 		</data>
 		<key>Modules/FlexLayout.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/FlexLayout.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		/E7RObukyPZhMDW1GOHQcSGvd0U=
+		CHByRTz+RSaXZ+5vfEE+Ja2tWik=
 		</data>
 		<key>Modules/FlexLayout.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ABivRix5ZGnADG08fSx4tXq8Pi8=
+		hFAL5UB8qx9I8z3hf5ajIhRhXiw=
 		</data>
 		<key>Modules/FlexLayout.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -66,11 +66,11 @@
 		</data>
 		<key>Modules/FlexLayout.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		TgHKyUJtILfWgERdyV06z4FZoL4=
+		ZI1wUQZg/BdkdglGCZPHHnBqprY=
 		</data>
 		<key>Modules/FlexLayout.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		msvNd3DcRTmAFIfeWS+BXTqQJ+c=
+		1zF5gAG9T0coWYfHw0lLKm2fpq4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,7 +99,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kq2j4Qi0BFB5+BDDI9fYWFh/UA+kb8RtHi/vnMx0d4Y=
+			VJmU6GwzHfjzO7WOPXcOOGa1VSK9kxsJTKAEAkLGEZ0=
 			</data>
 		</dict>
 		<key>Headers/FlexLayout.h</key>
@@ -155,14 +155,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pm+x3r+M6t0hDABZB7eiIcZI6qrlvxhi8gkkEjT8DJc=
+			zWFxv+m0qwBBvmVUM9ZWw5jR6E4HJqc+T4AdV2/AJHE=
 			</data>
 		</dict>
 		<key>Modules/FlexLayout.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			shAG9K/sLqEP5RXRMjxpi7HcqUf+tV6317sA8zxyDXc=
+			3BeNEoqmlvCu3AKxm3q3TYj3y8nmTNladSUKP2xi9sI=
 			</data>
 		</dict>
 		<key>Modules/FlexLayout.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -176,14 +176,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vQrDUWD0XTDbEeHpMKyRmkQ88Y9Aon9jLKA5BzwZnpk=
+			Yc028/eQ/e0an24F7usNmImm25vVfwm5DjjAfiIziOI=
 			</data>
 		</dict>
 		<key>Modules/FlexLayout.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ksHYrsHBUzhzCHCsryCGHx24XeCAc7LMKxjbEBVERRs=
+			WXU6XTkJKZTkr5OSQGBB+WfXPFd3OhFqXVe74+Dxa3c=
 			</data>
 		</dict>
 		<key>Modules/FlexLayout.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -197,14 +197,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4DORXDlqm9oi6IFYzkAYFMUEBtzZ10QdtQ6mJ13l7hs=
+			7rgYI+ej3SDImB71gC68sR2K9P+n49UGyp+9XwZTdZw=
 			</data>
 		</dict>
 		<key>Modules/FlexLayout.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C3dQ3ignf1TzJf6DRDj8p3th9aJF6UmWYXrIlIZOiZM=
+			Zhb0teXvENIohmS8sX8sbHk43FQFKwbFLWAJWGnpves=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
